@@ -1,0 +1,54 @@
+.paint {			/* Used To Dot Create Class In CSS */
+		color:blue; /* https://www.muratoner.net/online-araclar/html-renk-kodlari-color-codes-and-names */
+		text-decoration: overline;	/* https://www.w3schools.com/cssref/pr_text_text-decoration.asp */
+		}
+
+#paint {			/* Used To # Create ID In CSS */
+
+		color: green;
+		text-transform: uppercase; /* https://www.w3schools.com/cssref/pr_text_text-transform.asp */
+}
+
+.fontype {
+
+		color: #00FF00;
+		font-family: Courier New, Arial; /* https://www.w3schools.com/cssref/css_websafe_fonts.asp */
+		background: #424242;
+		font-size: 16px;
+		font-weight: bold; 			/* https://www.w3schools.com/cssref/pr_font_weight.asp */
+		font-style: italic;		/*https://www.w3schools.com/html/html_styles.asp*/
+}
+
+.space {
+
+		word-spacing: 0.2cm;
+		letter-spacing: 0.05cm;
+		text-transform: capitalize;		/* https://www.w3schools.com/cssref/pr_text_text-transform.asp */
+		text-indent: 3cm;
+		line-height: 20px;
+		}
+
+.listfactory {
+
+			list-style-type: circle;	/* https://www.w3schools.com/cssref/pr_list-style-type.asp */
+
+}
+
+.listfactorytwo {
+				list-style-image: url(https://imguploads.net/images/2021/03/24/hacker.png);
+				list-style-position: inside;	/* https://www.w3schools.com/cssref/playit.asp?filename=playcss_list-style-position&preval=inside */
+				}
+
+
+
+.pointer {
+		cursor: no-drop; /* https://www.w3schools.com/cssref/playit.asp?filename=playcss_cursor&preval=none */
+		text-align: center; /* https://www.w3schools.com/cssref/pr_text_text-align.asp */
+}
+
+
+/*
+
+vertical-align: baseline; ( https://www.w3schools.com/cssref/pr_pos_vertical-align.asp )
+
+*/
